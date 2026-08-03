@@ -1,2 +1,5 @@
 - Deleting wallet_address for the dataset
+- Mising value
+- Diplicate
+- Checking type of valid data
 -
